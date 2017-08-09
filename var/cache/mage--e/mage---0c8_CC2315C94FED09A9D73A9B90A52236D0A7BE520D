@@ -1,0 +1,85 @@
+<div class="footer-container">
+	<div class="page">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="footer">
+						  <p id="back-top"><a href="#top"><span></span></a> </p>
+						  <div class="footer-cols-wrapper">
+							<div class="footer-col footer-col-ex">			
+								<!-- <h4></h4> -->
+                                                                 <h4>Contact Us</h4>
+                                                                <div id="block_1" class="footer-col-content">
+				<!-- <h6 class="contact-heading">Contact Us</h6> -->
+                                      <ul>
+                      <li class="address">1920 Lafayette Street Unit D,Santa Clara, CA 95050 USA</li>
+                      <li class="phoneno">408-823-1356</li>
+                       <li class="email"><a href="#">usrazor1@gmail.com</a></li>
+                          </ul>  
+
+                                                     			</div>
+								
+							</div>
+                                                           <div class="footer-col footer-col-ex">
+                                                        <h4>Information</h4>
+                                                          <div class="footer-col-content">
+<ul>
+<li><a href="http://127.0.0.1/usrazor/about-us?___SID=U">About Us</a></li>
+<li><a href="http://127.0.0.1/usrazor/customer-service?___SID=U">Customer Service</a></li>
+<li class="last privacy"><a href="http://127.0.0.1/usrazor/privacy-policy-cookie-restriction-mode?___SID=U">Privacy Policy</a></li>
+<li> <a href="http://127.0.0.1/usrazor/shipping-information?___SID=U"> Shipping Information </a> </li>
+<li> <a href="http://127.0.0.1/usrazor/term-condition?___SID=U"> Terms & Conditions </a> </li>
+</ul>
+</div>
+                                                        </div>  
+							<div class="footer-col">
+    <h4>Why buy from us</h4>
+    <div class="footer-col-content">
+        <ul>
+            <li><a href="#">Shipping & Returns</a></li>
+            <li><a href="#">Secure Shopping</a></li>
+            <li><a href="www.usrazor.com/usrazor/shipping-information">International Shipping</a></li>
+            <li><a href="#">Affiliates</a></li>
+            <li><a href="#">Group Sales</a></li>
+        </ul>
+    </div>
+</div>
+<div class="footer-col">
+<h4>My account</h4>
+    <div class="footer-col-content">
+        <ul>
+           
+            <li><a href="http://127.0.0.1/usrazor/checkout/cart/?___SID=U">View Cart</a></li>
+            <li><a href="http://127.0.0.1/usrazor/wishlist/?___SID=U">My Wishlist</a></li>
+            <li><a href="#">Help</a></li>
+        </ul>
+    </div>
+</div>                                                          
+							<div class="footer-col last">
+																<div class="social-icons">
+    <ul>
+      <li><a href="https://twitter.com/usrazor"><i class="fa fa-twitter">&nbsp;</i></a></li>
+      <li><a href="https://facebook.com/usrazor"><i class="fa fa-facebook">&nbsp;</i></a></li>
+      <li><a href="https://plus.google.com/101385749401685306840"><i class="fa fa-google-plus" aria-hidden="true">&nbsp;</i></a></li>
+    </ul>
+    <div class="clear"></div>
+</div>								<!-- Begin Official PayPal Seals --><a href="https://www.paypal.com/us/verified/" target="_blank"><img src="https://www.usrazor.com/skin/frontend/default/theme649/css/images/paypal-verified-seal.png" border="0" alt="Official PayPal Seal"></A><!-- End Official PayPal Seal -->
+							</div>
+							<div class="clear"></div>
+							
+						  </div>
+						<div class="clear"></div>
+																	</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer-row">
+                
+				<address>© UsRazor. All Rights Reserved.</address>
+		<div class="clear"></div>
+				
+	</div>
+</div>
+
+

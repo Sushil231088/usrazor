@@ -1,0 +1,92 @@
+<div class="banners">
+<div class="container">
+<div class="row">
+<div id="list1" class="col-xs-3">
+<div class="banner_cls">
+<a href="http://127.0.0.1/usrazor/personna/11-personna-magnum3-razor-blade-refill-cartridge-cheaper-than-gillette-schick.html/?___SID=U"> <img alt="11 Personna Magnum3 Razor Blade Refill Cartridge Cheaper than Gillette Schick" src="http://www.usrazor.com/media/catalog/product/1/1/11-personna-magnum3-razor-blade-refill-cartridge-cheaper-than-gillette-shaver.jpg" /> <br /></a>
+<div class="banner-shop">
+<div class="banner_price">$9.99</div>
+<div class="banner_title"><strong><span> 11 Personna Magnum3 Razor Blade Refill Cartridge </span></strong></div>
+</div>
+</div></div>
+<div id="list2" class="col-xs-3">
+<div class="banner_cls">
+<a href="http://127.0.0.1/usrazor/gillette/15-trac-ii-blades-wilkinson-super-plus-cartridge-refill-ft-gillette-schick-razor.html/?___SID=U"> <img alt=" " src="http://www.usrazor.com/media/catalog/product/1/5/15-trac-ii-blades-wilkinson-super-plus-cartridge-refill-ft-gillette-schick-razor.jpg" /> <br /></a>
+<div class="banner-shop">
+<div class="banner_price">$15.49</div>
+<div class="banner_title"><strong><span> 15 trac ii blades wilkinson super plus catridge </span></strong></div>
+</div></div>
+</div>
+<div id="list3" class="col-xs-3">
+<div class="banner_cls">
+<a href="http://127.0.0.1/usrazor/gallant/gallant-razor-non-lubricant-blades-fit-gillette-trac-ii-plus.html/?___SID=U"> <img alt="Gallant Razor Non Lubricant Blades Fit Gillette Trac II Plus" src="http://www.usrazor.com/media/catalog/product/g/a/gallant-razor-non-lubricant-blades-fit-gillette-trac-ii-plus.jpg"/> <br /></a>
+<div class="banner-shop">
+<div class="banner_price">$4.99</div>
+<div class="banner_title"><strong><span>Gallant Razor Non Lubricant Blades Fit Gillette Trac ii Plus </span></strong></div>
+</div>
+</div></div>
+<div id="list4" class="col-xs-3">
+<div class="banner_cls">
+<a href="http://127.0.0.1/usrazor/schick/8-schick-hydro-silk-women-blades-cartridges-refill-shaver-fits-hydro-5-3-razor-4.html/?___SID=U"> 
+ <img alt="8 Schick Hydro Silk Women Blades Cartridges Refill Shaver Fits Hydro 5 3 Razor 4 " src=" http://www.usrazor.com/media/catalog/product/8/-/8-schick-hydro-silk-women-blades-cartridges-refill-shaver-fits-hydro-5-3-razor-4-841058007029.jpg" /> <br />
+</a>
+
+<div class="banner-shop">
+<div class="banner_price">$21.99</div>
+<div class="banner_title"><strong><span> 8 Schick Hydro Silk Women Blades Cartridges Refill Shaver Fits Hydro 5 3 Razor 4 </span></strong></div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<style><!--
+@media only screen and (max-width:480px)
+{
+#list1
+{
+width:97%;
+overflow: hidden;
+    text-align: left;
+    position: relative;
+    padding: 0;
+   margin:0px 0px 5% 5%;   
+}
+
+#list2
+{
+width:97%;
+overflow: hidden;
+    text-align: left;
+    position: relative;
+    padding: 0;
+   margin:0px 0px 5% 5%;
+ 
+}
+#list3
+{
+
+width:97%;
+margin-top:-24%;
+
+overflow: hidden;
+    text-align: left;
+    position: relative;
+    padding: 0;
+   margin:0px 0px 5% 5%;
+}
+#list4
+{
+
+width:97%;
+margin-top:-24%;
+
+overflow: hidden;
+    text-align: left;
+    position: relative;
+    padding: 0;
+   margin:0px 0px 5% 5%;
+}
+}
+--></style>

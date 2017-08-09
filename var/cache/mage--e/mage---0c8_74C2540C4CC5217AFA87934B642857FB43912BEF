@@ -1,0 +1,23 @@
+<div class="footer-col">
+    <h4>Why buy from us</h4>
+    <div class="footer-col-content">
+        <ul>
+            <li><a href="#">Shipping & Returns</a></li>
+            <li><a href="#">Secure Shopping</a></li>
+            <li><a href="www.usrazor.com/usrazor/shipping-information">International Shipping</a></li>
+            <li><a href="#">Affiliates</a></li>
+            <li><a href="#">Group Sales</a></li>
+        </ul>
+    </div>
+</div>
+<div class="footer-col">
+<h4>My account</h4>
+    <div class="footer-col-content">
+        <ul>
+           
+            <li><a href="http://127.0.0.1/usrazor/checkout/cart/?___SID=U">View Cart</a></li>
+            <li><a href="http://127.0.0.1/usrazor/wishlist/?___SID=U">My Wishlist</a></li>
+            <li><a href="#">Help</a></li>
+        </ul>
+    </div>
+</div>

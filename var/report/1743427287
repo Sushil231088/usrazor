@@ -1,0 +1,8 @@
+a:5:{i:0;s:394:"Error in file: "C:\wamp64\www\usrazor\app\code\core\Mage\Catalog\data\catalog_setup\data-install-1.6.0.0.php" - SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'save-catalog_category-1' for key 'UNQ_INDEX_EVENT_TYPE_ENTITY_ENTITY_PK', query was: INSERT INTO `index_event` (`type`, `entity`, `entity_pk`, `created_at`, `new_data`) VALUES (?, ?, ?, '2017-08-08 21:03:30', ?)";i:1;s:844:"#0 C:\wamp64\www\usrazor\app\code\core\Mage\Core\Model\Resource\Setup.php(644): Mage::exception('Mage_Core', 'Error in file: ...')
+#1 C:\wamp64\www\usrazor\app\code\core\Mage\Core\Model\Resource\Setup.php(391): Mage_Core_Model_Resource_Setup->_modifyResourceDb('data-install', '', '1.6.0.0.19.1.2')
+#2 C:\wamp64\www\usrazor\app\code\core\Mage\Core\Model\Resource\Setup.php(289): Mage_Core_Model_Resource_Setup->_installData('1.6.0.0.19.1.2')
+#3 C:\wamp64\www\usrazor\app\code\core\Mage\Core\Model\Resource\Setup.php(269): Mage_Core_Model_Resource_Setup->applyDataUpdates()
+#4 C:\wamp64\www\usrazor\app\code\core\Mage\Core\Model\App.php(362): Mage_Core_Model_Resource_Setup::applyAllDataUpdates()
+#5 C:\wamp64\www\usrazor\app\Mage.php(684): Mage_Core_Model_App->run(Array)
+#6 C:\wamp64\www\usrazor\index.php(83): Mage::run('', 'store')
+#7 {main}";s:3:"url";s:45:"/usrazor/index.php/install/wizard/configPost/";s:11:"script_name";s:18:"/usrazor/index.php";s:4:"skin";s:7:"default";}

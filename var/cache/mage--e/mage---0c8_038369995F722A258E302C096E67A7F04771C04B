@@ -1,0 +1,42 @@
+<div class="slider-container">
+ 
+              <div class="slider_block">
+                
+                 <script type="text/javascript" src="http://127.0.0.1/usrazor/skin/frontend/default/theme649/js/camera.js"></script>
+                                <script type="text/javascript">
+                 /* index slider */
+                 jQuery(function(){
+                  jQuery('#camera_wrap').camera({
+                  alignmen: 'topCenter',
+                  height: '38.034%',
+                  minHeight: '34px',
+                  loader : true,
+                  loaderColor: '#f48b47',
+                  loaderPadding: '0',
+                  loaderStroke: '2',
+                  navigation: true,
+                  pagination: false,
+                  fx: 'simpleFade',
+                  navigationHover:false,
+                  thumbnails: false,
+                  playPause: false 
+                  });
+                 });    
+                 </script>
+                 
+                 <div class="fluid_container">
+                   <div class="camera_wrap camera_orange_skin" id="camera_wrap">
+                       <div data-src="http://127.0.0.1/usrazor/skin/frontend/default/theme649/images/camera/slides/all_in_one.jpg" >
+                       </div>
+                       <div data-src="http://127.0.0.1/usrazor/skin/frontend/default/theme649/images/camera/slides/gillette_banner.jpg" >
+                       </div>
+    <div data-src="http://127.0.0.1/usrazor/skin/frontend/default/theme649/images/camera/slides/schick_banner.jpg" >
+                       </div>
+     <div data-src="http://127.0.0.1/usrazor/skin/frontend/default/theme649/images/camera/slides/wilkinson_banner.jpg" >
+                       </div> 
+</div>
+                   <div class="clear"></div>                        
+                </div>
+              </div>
+         
+</div>
