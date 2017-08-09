@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<config>
+    <sections>
+        <google translate="label">
+            <groups>
+                <celticga translate="label">
+                    <label>Google Universal Analytics</label>
+                    <frontend_type>text</frontend_type>
+                    <sort_order>1000</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>
+                    <fields>
+                        <enable translate="label" module="celticga">
+                            <label>Enable</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <sort_order>1</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </enable>
+                        <account translate="label" module="celticga">
+                            <label>Tracking Id</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>2</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </account>
+                        <usecustom translate="label" module="celticga">
+                            <label>Use custom cookie</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <sort_order>3</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </usecustom>
+                        <domain translate="label" module="celticga">
+                            <label>Domain name</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>4</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <depends><usecustom>0</usecustom></depends>
+                        </domain>
+                        <cookiedomain translate="label" module="celticga">
+                            <label>Cookie Domain name</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>5</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <depends><usecustom>1</usecustom></depends>
+                        </cookiedomain>
+                        <cookiename translate="label" module="celticga">
+                            <label>Cookie name</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>6</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <depends><usecustom>1</usecustom></depends>
+                        </cookiename>
+                        <cookieexpire translate="label" module="celticga">
+                            <label>Cookie expire</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>7</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <depends><usecustom>1</usecustom></depends>
+                        </cookieexpire>
+                    </fields>
+                </celticga>
+            </groups>
+        </google>
+    </sections>
+</config>

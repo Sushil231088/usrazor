@@ -1,0 +1,12 @@
+<script type="text/javascript">
+    ga('require', 'ecommerce', 'ecommerce.js');
+    <?php $orderIds = $this->getOrderIds()?>
+    <?php $orders = $this->getOrders($orderIds);?>
+    <?php foreach($orders as $order): ?>
+    <?php echo $this->getOrderTag($order);?>
+    <?php foreach($order->getAllVisibleItems() as $item): ?>
+    <?php echo $this->getOrderItemTag($item, $order);?>
+    <?php endforeach;?>
+    <?php endforeach;?>
+    ga('ecommerce:send');
+</script>
